@@ -95,7 +95,7 @@ body {
   .heartOne {
     position: absolute;
     left:220px;
-    top:500px;
+    top:430px;
     animation: up 8s linear forwards 1s;
   }
   
